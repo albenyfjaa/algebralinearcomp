@@ -1,1 +1,1 @@
-"folder for projects"
+Folder for projects
